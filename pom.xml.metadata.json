@@ -1,0 +1,5 @@
+{
+  "summary":  "Maven build file for Contract Analyzer project, includes Spring Boot and AI dependencies, pgvector, MinIO, GraalVM native image plugin.",
+  "updatedAt":  "2026-06-12T10:26:38.424423700Z",
+  "userFacing":  true
+}
