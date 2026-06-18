@@ -1,0 +1,4 @@
+{
+  "summary":  "JPA entity representing analysis result with extracted clauses, compliance flags, suggested redlines, and vector embedding.",
+  "updatedAt":  "2026-06-12T10:27:26.981689Z"
+}
