@@ -33,3 +33,59 @@ The service allows you to:
 - Store documents and analysis results in PostgreSQL.
 - Perform vector‑based similarity search with `pgvector`.
 - Serve a React UI for uploading files, reviewing analysis
+
+## Architecture diagram
+
+*Placeholder for architecture diagram.*
+
+## Technology stack
+
+*Placeholder for technology stack details.*
+
+## Prerequisites
+
+*Placeholder for prerequisites.*
+
+## Running locally
+
+### Backend
+
+*Placeholder for backend setup.*
+
+### Front‑end UI
+
+*Placeholder for front‑end UI setup.*
+
+## Docker & GraalVM native image
+
+*Placeholder for Docker and GraalVM instructions.*
+
+## Kubernetes deployment
+
+*Placeholder for Kubernetes deployment guide.*
+
+## API reference
+
+*Placeholder for API reference.*
+
+## Testing
+
+### Unit tests
+
+*Placeholder for unit test instructions.*
+
+### Integration tests
+
+*Placeholder for integration test instructions.*
+
+## Security
+
+*Placeholder for security considerations.*
+
+## Contributing
+
+*Guidelines for contributing.*
+
+## License
+
+*License information.*
